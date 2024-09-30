@@ -6,7 +6,7 @@
 
 **Name:** TANISH DEEPAK PASHTE  
 **Enrollment ID:** 23119048  
-**Batch:** PI-2 (Batch 1)  
+**Batch:** PI-2 
 
 ---
 
